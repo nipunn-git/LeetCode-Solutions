@@ -31,6 +31,7 @@
 | [0013-roman-to-integer](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0344-reverse-string](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +69,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0344-reverse-string](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
