@@ -13,4 +13,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
+| [2235-add-two-integers](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2235-add-two-integers/) | Easy |
 <!---LeetCode Topics End-->
