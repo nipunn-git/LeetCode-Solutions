@@ -93,4 +93,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0476-number-complement](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0476-number-complement/) | Easy |
 <!---LeetCode Topics End-->
