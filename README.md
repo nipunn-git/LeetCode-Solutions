@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0118-pascals-triangle](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -14,6 +15,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -99,4 +101,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0476-number-complement](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0476-number-complement/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
