@@ -11,6 +11,7 @@
 | [0118-pascals-triangle](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -108,6 +109,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [1672-richest-customer-wealth](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
