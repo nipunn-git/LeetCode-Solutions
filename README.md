@@ -26,6 +26,7 @@
 | [0009-palindrome-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0069-sqrtx](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
+| [0258-add-digits](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0509-fibonacci-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
@@ -66,6 +67,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2427-number-of-common-factors/) | Easy |
 ## Binary Search
@@ -90,6 +92,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
