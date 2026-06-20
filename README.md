@@ -30,6 +30,7 @@
 | [0009-palindrome-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0029-divide-two-integers](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0066-plus-one](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0258-add-digits](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
@@ -114,6 +115,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0260-single-number-iii](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0476-number-complement](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0476-number-complement/) | Easy |
 ## Matrix
