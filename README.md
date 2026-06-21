@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0051-n-queens](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [0055-jump-game](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
@@ -87,6 +88,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
