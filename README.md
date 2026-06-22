@@ -49,6 +49,7 @@
 | [2413-smallest-even-multiple](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2427-number-of-common-factors/) | Easy |
 | [2652-sum-multiples](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2652-sum-multiples/) | Easy |
+| [2769-find-the-maximum-achievable-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## String
 | Problem Name | Difficulty |
