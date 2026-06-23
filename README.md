@@ -159,4 +159,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0175-combine-two-tables/) | Easy |
+| [0627-swap-sex-of-employees](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0627-swap-sex-of-employees/) | Easy |
 <!---LeetCode Topics End-->
