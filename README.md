@@ -44,6 +44,7 @@
 | [0050-powx-n](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0509-fibonacci-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
@@ -127,12 +128,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
+| [0070-climbing-stairs](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
