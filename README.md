@@ -54,6 +54,7 @@
 | [2235-add-two-integers](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2427-number-of-common-factors/) | Easy |
+| [2469-convert-the-temperature](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [2652-sum-multiples](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2652-sum-multiples/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
