@@ -21,6 +21,7 @@
 | [1672-richest-customer-wealth](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -156,6 +157,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
