@@ -71,6 +71,7 @@
 | [0012-integer-to-roman](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
@@ -139,6 +140,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0055-jump-game](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
@@ -175,6 +177,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0051-n-queens](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
 ## Database
 | Problem Name | Difficulty |
