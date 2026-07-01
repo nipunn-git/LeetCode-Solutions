@@ -54,6 +54,7 @@
 | [0066-plus-one](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0202-happy-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0509-fibonacci-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
@@ -77,6 +78,7 @@
 | [0022-generate-parentheses](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0344-reverse-string](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0520-detect-capital](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0520-detect-capital/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
