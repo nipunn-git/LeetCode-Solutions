@@ -25,6 +25,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1929-concatenation-of-array](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2942-find-words-containing-character](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2942-find-words-containing-character/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Hash Table
@@ -80,6 +81,7 @@
 | [0520-detect-capital](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0520-detect-capital/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [2942-find-words-containing-character](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2942-find-words-containing-character/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
