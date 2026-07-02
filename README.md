@@ -18,6 +18,7 @@
 | [0118-pascals-triangle](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0260-single-number-iii](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0260-single-number-iii/) | Medium |
+| [0283-move-zeroes](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0810-chalkboard-xor-game](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0810-chalkboard-xor-game/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -139,6 +140,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0202-happy-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
+| [0283-move-zeroes](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
