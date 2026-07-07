@@ -17,6 +17,7 @@
 | [0073-set-matrix-zeroes](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0118-pascals-triangle](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0217-contains-duplicate](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0260-single-number-iii](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
@@ -46,6 +47,7 @@
 | [0041-first-missing-positive](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
+| [0217-contains-duplicate](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -116,6 +118,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0455-assign-cookies](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
