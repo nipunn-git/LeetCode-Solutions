@@ -26,6 +26,7 @@
 | [0810-chalkboard-xor-game](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0810-chalkboard-xor-game/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -52,6 +53,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3668-restore-finishing-order](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3668-restore-finishing-order/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Math
@@ -79,6 +81,7 @@
 | [0509-fibonacci-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0810-chalkboard-xor-game](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0810-chalkboard-xor-game/) | Hard |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [2235-add-two-integers](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
@@ -135,6 +138,7 @@
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
