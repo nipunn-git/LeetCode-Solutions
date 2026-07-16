@@ -96,6 +96,7 @@
 | [2652-sum-multiples](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2652-sum-multiples/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
+| [3099-harshad-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3099-harshad-number/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
