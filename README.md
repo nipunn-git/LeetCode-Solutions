@@ -37,6 +37,7 @@
 | [2942-find-words-containing-character](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2942-find-words-containing-character/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3668-restore-finishing-order](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3668-restore-finishing-order/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3701-compute-alternating-sum/) | Easy |
@@ -99,6 +100,7 @@
 | [3099-harshad-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3099-harshad-number/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3516-find-closest-person](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3516-find-closest-person/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -233,6 +235,7 @@
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
