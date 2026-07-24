@@ -87,6 +87,7 @@
 | [0367-valid-perfect-square](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0507-perfect-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [0728-self-dividing-numbers](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0810-chalkboard-xor-game](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0810-chalkboard-xor-game/) | Hard |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
