@@ -97,6 +97,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2235-add-two-integers](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2235-add-two-integers/) | Easy |
+| [2396-strictly-palindromic-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2413-smallest-even-multiple](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2427-number-of-common-factors/) | Easy |
 | [2469-convert-the-temperature](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2469-convert-the-temperature/) | Easy |
@@ -203,6 +204,7 @@
 | [0283-move-zeroes](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0455-assign-cookies](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
+| [2396-strictly-palindromic-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -288,6 +290,7 @@
 | ------- | ------- |
 | [0292-nim-game](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0292-nim-game/) | Easy |
 | [0810-chalkboard-xor-game](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0810-chalkboard-xor-game/) | Hard |
+| [2396-strictly-palindromic-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
