@@ -39,6 +39,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2942-find-words-containing-character](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2942-find-words-containing-character/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
@@ -64,6 +65,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3668-restore-finishing-order](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3668-restore-finishing-order/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Math
@@ -108,6 +110,7 @@
 | [2652-sum-multiples](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2652-sum-multiples/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3099-harshad-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3099-harshad-number/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -253,6 +256,7 @@
 | [0048-rotate-image](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
