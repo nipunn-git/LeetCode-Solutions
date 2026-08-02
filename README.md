@@ -127,6 +127,7 @@
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 | [3895-count-digit-appearances](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3895-count-digit-appearances/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -246,6 +247,7 @@
 | [0509-fibonacci-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
