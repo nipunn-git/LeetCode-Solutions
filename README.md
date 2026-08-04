@@ -50,6 +50,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3668-restore-finishing-order](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3668-restore-finishing-order/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3701-compute-alternating-sum/) | Easy |
+| [3731-find-missing-elements](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3895-count-digit-appearances](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3895-count-digit-appearances/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -71,6 +72,7 @@
 | [1512-number-of-good-pairs](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3668-restore-finishing-order](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3668-restore-finishing-order/) | Easy |
+| [3731-find-missing-elements](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -177,6 +179,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [3731-find-missing-elements](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
