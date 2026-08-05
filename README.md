@@ -37,6 +37,7 @@
 | [1732-find-the-highest-altitude](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1920-build-array-from-permutation](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -235,6 +236,7 @@
 | ------- | ------- |
 | [0258-add-digits](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
