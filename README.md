@@ -67,6 +67,7 @@
 | [0202-happy-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0771-jewels-and-stones](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -148,6 +149,7 @@
 | [0171-excel-sheet-column-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0344-reverse-string](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0520-detect-capital](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0520-detect-capital/) | Easy |
+| [0771-jewels-and-stones](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
