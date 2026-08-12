@@ -147,6 +147,7 @@
 | [0020-valid-parentheses](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0058-length-of-last-word](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
@@ -221,6 +222,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -257,6 +259,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0055-jump-game](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
@@ -347,4 +350,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
