@@ -68,6 +68,7 @@
 | [0073-set-matrix-zeroes](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0264-ugly-number-ii](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0771-jewels-and-stones](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -96,6 +97,7 @@
 | [0231-power-of-two](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0263-ugly-number/) | Easy |
+| [0264-ugly-number-ii](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0292-nim-game/) | Easy |
 | [0342-power-of-four](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0342-power-of-four/) | Easy |
@@ -264,6 +266,7 @@
 | [0070-climbing-stairs](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0264-ugly-number-ii](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
@@ -345,6 +348,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0264-ugly-number-ii](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
