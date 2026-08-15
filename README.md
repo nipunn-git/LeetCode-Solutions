@@ -14,6 +14,7 @@
 | [0048-rotate-image](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [0055-jump-game](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
+| [0064-minimum-path-sum](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0118-pascals-triangle](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
@@ -263,6 +264,7 @@
 | [0022-generate-parentheses](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0055-jump-game](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
+| [0064-minimum-path-sum](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -292,6 +294,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
+| [0064-minimum-path-sum](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
