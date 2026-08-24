@@ -338,6 +338,7 @@
 | [0178-rank-scores](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0178-rank-scores/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0183-customers-who-never-order](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0183-customers-who-never-order/) | Easy |
+| [0595-big-countries](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0595-big-countries/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [3475-dna-pattern-recognition](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3475-dna-pattern-recognition/) | Medium |
 ## Sliding Window
