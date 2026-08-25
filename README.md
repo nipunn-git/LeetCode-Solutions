@@ -55,6 +55,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3668-restore-finishing-order](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3668-restore-finishing-order/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3701-compute-alternating-sum/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3895-count-digit-appearances](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3895-count-digit-appearances/) | Medium |
@@ -80,6 +81,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3668-restore-finishing-order](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3668-restore-finishing-order/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Math
