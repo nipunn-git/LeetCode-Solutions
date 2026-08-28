@@ -49,6 +49,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2942-find-words-containing-character](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2942-find-words-containing-character/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [2974-minimum-number-game](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -198,6 +199,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2974-minimum-number-game](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Counting Sort
@@ -264,6 +266,7 @@
 | [1929-concatenation-of-array](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2974-minimum-number-game](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -369,6 +372,7 @@
 | ------- | ------- |
 | [0264-ugly-number-ii](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2974-minimum-number-game](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2974-minimum-number-game/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
