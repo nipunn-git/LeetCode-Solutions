@@ -44,6 +44,7 @@
 | [1929-concatenation-of-array](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -330,6 +331,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1927-sum-game](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1927-sum-game/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
