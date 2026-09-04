@@ -63,6 +63,7 @@
 | [3838-weighted-word-mapping](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3895-count-digit-appearances](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3895-count-digit-appearances/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -325,6 +326,7 @@
 | [2485-find-the-pivot-integer](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
