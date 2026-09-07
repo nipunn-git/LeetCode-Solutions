@@ -185,6 +185,7 @@
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0206-reverse-linked-list](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0237-delete-node-in-a-linked-list](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
