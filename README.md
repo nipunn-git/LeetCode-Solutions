@@ -123,6 +123,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1927-sum-game](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -302,6 +303,7 @@
 | [0837-new-21-game](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0837-new-21-game/) | Medium |
 | [0877-stone-game](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 ## Memoization
@@ -332,6 +334,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -421,4 +424,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 <!---LeetCode Topics End-->
