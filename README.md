@@ -121,6 +121,7 @@
 | [0837-new-21-game](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0837-new-21-game/) | Medium |
 | [0877-stone-game](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
@@ -193,6 +194,7 @@
 | [0206-reverse-linked-list](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nipunn-git/LeetCode-Solutions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
